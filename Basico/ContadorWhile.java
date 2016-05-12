@@ -29,5 +29,3 @@ public class ContadorWhile {
         System.exit(0);
     }
 }
-
-

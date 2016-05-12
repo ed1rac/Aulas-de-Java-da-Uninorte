@@ -13,7 +13,7 @@ public class StringListFrase {
                         "posicionado", "em rede", "dedicado", "alavancado", "alinhado", "destinado",
                         "compartilhado", "cooperativo", "acelerado"};
         String[] Lista3={"processo", "ponto máximo", "solução", "arquitetura",
-                        "habilitação do núcleo", "estratégia","mindshare", "portal", "espaço",
+                        "habilitação no núcleo", "estratégia","mindshare", "portal", "espaço",
                         "visão", "paradigma", "missão"};
 
         int tamLista1 = Lista1.length;
@@ -26,10 +26,9 @@ public class StringListFrase {
         int rand3 = (int) (Math.random() * tamLista3);
 
         String frase = Lista1[rand1] + " " + Lista2[rand2] + " " + Lista3[rand3] + " " +
-                    Lista1[rand3] + " " + Lista2[rand1] + " " + Lista3[rand2];
+                        Lista1[rand3] + " " + Lista2[rand1] + " " + Lista3[rand2];
 
         System.out.println("Programa que gera frase automaticamente");
         System.out.println(frase);
     }
-
 }
