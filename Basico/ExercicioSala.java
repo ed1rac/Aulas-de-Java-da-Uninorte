@@ -37,7 +37,10 @@ public class ExercicioSala{
 		System.out.print("Digite a quantidade em reais a ser convertida: ");
 		reais = entrada.nextFloat();	//lê o segundo inteiro 
 		
-		System.out.printf("\n R$ %.2f convertido para dolares a cotacao U$ 1,00 a %.2f = %.2f ", reais, dolar,reais/dolar);		
+		System.out.printf("\n R$ %.2f convertido para dolares a cotacao U$ 1,00 a %.2f = %.2f ", reais, dolar,reais/dolar);	
+		
+		
+					
   }
 }
 
