@@ -1,6 +1,6 @@
 /*
 ** Função: nao esquecer de anotar aqui!!!!!
-** Autor(a): Juan Carlos Justiniano Coelho
+** Autor(a):
 ** Data:21/05/2016
 ** Observações:
 */

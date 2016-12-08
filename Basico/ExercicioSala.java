@@ -39,6 +39,7 @@ public class ExercicioSala{
 		
 		System.out.printf("\n R$ %.2f convertido para dolares a cotacao U$ 1,00 a %.2f = %.2f ", reais, dolar,reais/dolar);	
 		
+	
 		
 					
   }

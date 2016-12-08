@@ -21,7 +21,7 @@ public class IfElse {
                 JOptionPane.showMessageDialog(null, "Digite apenas valores numéricos - \n"
                         + erro.toString());
             }
-        }
+        }   
         System.exit(0);
     }
-}
+} 

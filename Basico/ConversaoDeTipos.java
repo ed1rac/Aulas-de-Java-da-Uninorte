@@ -7,6 +7,7 @@
 public class ConversaoDeTipos {
    
    public static void main(String args[]) {
+    try{
 	
         double nota1, nota2, trabalho, media;
         nota1 = Double.parseDouble(args[0]);
@@ -14,7 +15,10 @@ public class ConversaoDeTipos {
         trabalho = Double.parseDouble(args[2]);
         media = (nota1 + nota2 + trabalho) / 3;
         System.out.println("Media = " + media);
-		
+	}
+    catch(ArrayIndexOutOfBoundsException erro){
+        System.out.println("Digite as tres notas!!" + erro.toString());
+    }
     }
 }
 

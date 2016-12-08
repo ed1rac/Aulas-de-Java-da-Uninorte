@@ -14,5 +14,8 @@ public class if_sem_else {
         }
         JOptionPane.showMessageDialog(null, men);
         System.exit(0);
+
+        
+        
     }
 }

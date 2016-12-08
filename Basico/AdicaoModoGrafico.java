@@ -14,8 +14,7 @@ public class AdicaoModoGrafico{
 		int soma;				// soma de num1 e num2
 		
 		//lê o primeiroNumero do usuário como uma String
-		primeiroNumero = JOptionPane.showInputDialog("Entre com o primeiro inteiro: ");		
-		//lê o primeiroNumero do usuário como uma String
+		primeiroNumero = JOptionPane.showInputDialog("Entre com o primeiro inteiro: ")	////lê o primeiroNumero do usuário como uma String
 		segundoNumero = JOptionPane.showInputDialog("Entre com o segundo inteiro: ");		
 		//Converte os numeros do tipo String para o tipo int
 		num1 = Integer.parseInt(primeiroNumero);

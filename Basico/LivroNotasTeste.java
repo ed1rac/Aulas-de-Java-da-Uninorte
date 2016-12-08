@@ -9,10 +9,16 @@ public class LivroNotasTeste{
 	public static void main(String[] args) {
 				
 		//cria um objeto LivroNotas e atribui a uma vari√°vel
-		LivroNotas meuLivroNotas = new LivroNotas();
+		LivroNotas meuLivroNotas = new LivroNotas("Linguagem de ProgramaÁ„o");
+		LivroNotas meuBoletim = new LivroNotas("EstatÌstica");
 
+		meuLivroNotas.exibeMensagem();
+		meuBoletim.exibeMensagem();
+		meuLivroNotas.imprimeNomeDaDisciplina();
+		meuBoletim.imprimeNomeDaDisciplina();
+	
 		//chama o m√©todo exibeMensagem de meuLivroNotas
-		meuLivroNotas.exibeMensagem();	
+		//meuLivroNotas.exibeMensagem("Estruturas de Dados");	
 		
 	}// fim do m√©todo 
 }// fim da classe 
