@@ -11,7 +11,8 @@ public class BemVindo4{
 	public static void main(String[] args) {
 	
 		//mostra a saída na tela do usuário
-		JOptionPane.showMessageDialog(null, "Bem Vindo ao \nMaravilhoso Universo Java\n");
+		JOptionPane.showMessageDialog(null, 
+			"Bem Vindo ao \nMaravilhoso Universo Java\n");
 		
 		System.exit(0);	//Termina Aplicativo
 		

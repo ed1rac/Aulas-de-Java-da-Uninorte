@@ -1,14 +1,14 @@
-/*	Programa: SwitchCase.java - pasta básico
-	Função: Mostra o uso da estrutura switch...case
+/*	Programa: SwitchCase.java - pasta bï¿½sico
+	Funï¿½ï¿½o: Mostra o uso da estrutura switch...case
 	Data: 23/06/2014
 	Autor: Edkallenn
-	Observações: Java 7 - ED - p. 53 com alterações do professor
-                 - lembrar se sempre abrir na codificação Windows 1252
+	Observaï¿½ï¿½es: Java 7 - ED - p. 53 com alteraï¿½ï¿½es do professor
+                 - lembrar se sempre abrir na codificaï¿½ï¿½o Windows 1252
 */
 import javax.swing.*;
 public class SwitchCase {
     public static void main(String args[]) {
-        String diaDaSemana = JOptionPane.showInputDialog("Forneça um número inteiro entre 1 e 7:");
+        String diaDaSemana = JOptionPane.showInputDialog("ForneÃ§a um nÃºmero inteiro entre 1 e 7:");
         if (diaDaSemana != null) {
             try {
                 int dia = Integer.parseInt(diaDaSemana);
@@ -16,16 +16,16 @@ public class SwitchCase {
                 switch (dia) {
                     case 1:  extenso = "Domingo";  break;
                     case 2:  extenso = "Segunda";  break;
-                    case 3:  extenso = "Terça";    break;
+                    case 3:  extenso = "TerÃ§a";    break;
                     case 4:  extenso = "Quarta";   break;
                     case 5:  extenso = "Quinta";   break;
                     case 6:  extenso = "Sexta";    break;
-                    case 7:  extenso = "Sábado";   break;
+                    case 7:  extenso = "SÃ¡bado";   break;
                     default: extenso = "Dia da Semana Desconhecido!";
                 }
-                JOptionPane.showMessageDialog(null, "Número fornecido: " + extenso);
+                JOptionPane.showMessageDialog(null, "NÃºmero fornecido: " + extenso);
             } catch (NumberFormatException erro) {
-                JOptionPane.showMessageDialog(null, "Digite apenas valores numéricos inteiros!\n"
+                JOptionPane.showMessageDialog(null, "Digite apenas valores numÃ©ricos inteiros!\n"
                         + erro.toString());
             }
         }
