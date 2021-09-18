@@ -1,9 +1,5 @@
 # Aulas-de-Java-da-Uninorte
 ## Aulas de Java da Uninorte do professor Edkallenn - Disciplina: Linguagem de Programação
-<div align="center">
-
-[**Read The Docs**](https://testing-library.com/react) |
-[Edit the docs](https://github.com/testing-library/testing-library-docs)
 
 <br />
 
@@ -21,9 +17,6 @@
 [![Code of Conduct][coc-badge]][coc]
 [![Discord][discord-badge]][discord]
 
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-[![Tweet][twitter-badge]][twitter]
 <!-- prettier-ignore-end -->
 
 ## LICENSE
