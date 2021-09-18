@@ -1,64 +1,56 @@
 # Aulas-de-Java-da-Uninorte
-## Aulas de Java da Uninorte do professor Edkallenn - Disciplina: Linguagem de Programação
+## Aulas de Java da Uninorte do professor Edkallenn
+### Disciplina: Linguagem de Programação
 
-<br />
+### Aulas Estruturas de Dados do Prof. Edkallenn Lima 
+---
 
+[Descrição do projeto](#Descricao-do-projeto)
 
-<hr />
+[Ementa da Disciplina](#Ementa-da-Disciplina)
 
-<!-- prettier-ignore-start -->
-[![Build Status][build-badge]][build]
-[![Code Coverage][coverage-badge]][coverage]
-[![version][version-badge]][package]
-[![downloads][downloads-badge]][npmtrends]
-[![MIT License][license-badge]][license]
-[![All Contributors][all-contributors-badge]](#contributors)
-[![PRs Welcome][prs-badge]][prs]
-[![Code of Conduct][coc-badge]][coc]
-[![Discord][discord-badge]][discord]
+[Python?](#Python)
 
-<!-- prettier-ignore-end -->
+[Contatos do professor:](#Contatos-do-professor)
 
-## LICENSE
+---
 
-[MIT](LICENSE)
+## Descrição do projeto
+Aulas de Java da Uninorte do professor Edkallenn é um projeto do [professor Edkallenn](https://edkallenn.github.io/) com o objetivo de tornar público todos os programas utilizados nas aulas da disciplina Linguagem de Programação do curso de Sistemas de Informação da [Uninorte](https://www.uninorteac.edu.br/).
 
-<!-- prettier-ignore-start -->
+Os Commits são todos efetuados dentro de sala enquanto os programas vão sendo codificados junto com os alunos.
 
-[npm]: https://www.npmjs.com/
-[yarn]: https://classic.yarnpkg.com
-[node]: https://nodejs.org
-[build-badge]: https://img.shields.io/github/workflow/status/testing-library/react-testing-library/validate?logo=github&style=flat-square
-[build]: https://github.com/testing-library/react-testing-library/actions?query=workflow%3Avalidate
-[coverage-badge]: https://img.shields.io/codecov/c/github/testing-library/react-testing-library.svg?style=flat-square
-[coverage]: https://codecov.io/github/testing-library/react-testing-library
-[version-badge]: https://img.shields.io/npm/v/@testing-library/react.svg?style=flat-square
-[package]: https://www.npmjs.com/package/@testing-library/react
-[downloads-badge]: https://img.shields.io/npm/dm/@testing-library/react.svg?style=flat-square
-[npmtrends]: http://www.npmtrends.com/@testing-library/react
-[license-badge]: https://img.shields.io/npm/l/@testing-library/react.svg?style=flat-square
-[license]: https://github.com/testing-library/react-testing-library/blob/main/LICENSE
-[prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
-[prs]: http://makeapullrequest.com
-[coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://github.com/testing-library/react-testing-library/blob/main/CODE_OF_CONDUCT.md
-[github-watch-badge]: https://img.shields.io/github/watchers/testing-library/react-testing-library.svg?style=social
-[github-watch]: https://github.com/testing-library/react-testing-library/watchers
-[github-star-badge]: https://img.shields.io/github/stars/testing-library/react-testing-library.svg?style=social
-[github-star]: https://github.com/testing-library/react-testing-library/stargazers
-[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20react-testing-library%20by%20%40@TestingLib%20https%3A%2F%2Fgithub.com%2Ftesting-library%2Freact-testing-library%20%F0%9F%91%8D
-[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/testing-library/react-testing-library.svg?style=social
-[emojis]: https://github.com/all-contributors/all-contributors#emoji-key
-[all-contributors]: https://github.com/all-contributors/all-contributors
-[all-contributors-badge]: https://img.shields.io/github/all-contributors/testing-library/react-testing-library?color=orange&style=flat-square
-[guiding-principle]: https://twitter.com/kentcdodds/status/977018512689455106
-[bugs]: https://github.com/testing-library/react-testing-library/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Acreated-desc
-[requests]: https://github.com/testing-library/react-testing-library/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc+label%3Aenhancement+is%3Aopen
-[good-first-issue]: https://github.com/testing-library/react-testing-library/issues?utf8=✓&q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+label%3A"good+first+issue"+
-[discord-badge]: https://img.shields.io/discord/723559267868737556.svg?color=7389D8&labelColor=6A7EC2&logo=discord&logoColor=ffffff&style=flat-square
-[discord]: https://discord.gg/testing-library
-[stackoverflow]: https://stackoverflow.com/questions/tagged/react-testing-library
-[react-hooks-testing-library]: https://github.com/testing-library/react-hooks-testing-library
+A Nova versão dessa disciplina usa, além de Java, Python e C.
 
-<!-- prettier-ignore-end -->
+![Badge](https://img.shields.io/badge/Prof-Ed-%237159c1?style=for-the-badge&logo=ghost)
+
+## Ementa da Disciplina
+
+- O Conteúdo é dividido em três grandes Partes
+1.	Evolução e Conceitos Fundamentais das Linguagens de Programação (usando Python e C)
+2.	Paradigmas das Linguagens de Programação (usando python e C)
+3.	Introdução à Orientação a Objetos com a Linguagem Java (e Python)
+
+## Python?
+
+A partir de 2017/2018 a disciplina vem usando Python para exemplificar os algoritmos e a codificação tem sido uma mescla das duas liguagens com resultados excelentes (a aprovação aumentou muito assim como as desistências diminuíram!).
+
+Adições serão sempre efetuadas além de Commits relacionados às maratonas de programação que, porventura, surgirem.
+
+Serão, futuramente, disponibilizadas ~~(Já estão no ar) [todas as apresentações]~~() da disciplina além de uma ideia de projeto para deixar disponíveis programas relacionados ao básico das Linguagens de Programação que estão na plataforma URI On-line Judge (ou outra como o SPOJ)
+
+## Contatos do professor: 
+
+- Página pessoal: <https://edkallenn.github.io/>
+- e-mail: [edkallenn@yahoo.com.br](mailto:edkallenn@yahoo.com.br)
+- Twitter: [@edkallenn](https://twitter.com/edkallenn)
+- Facebook: <https://www.facebook.com/edkallenn>
+- Instagram: [@edkallenn](https://www.instagram.com/edkallenn/)
+- Blog: <https://professored.wordpress.com/>
+- Linkedin: <https://www.linkedin.com/in/edkallenn/>
+
+Até mais e bons programas!
+
+## Licença
+![Badge][MIT](https://github.com/ed1rac/Aulas-de-Java-da-Uninorte/blob/master/LICENSE)
 
