@@ -50,5 +50,5 @@ Serão, futuramente, disponibilizadas ~~(Já estão no ar) [todas as apresentaç
 Até mais e bons programas!
 
 ## Licença
-![Badge][MIT](https://github.com/ed1rac/Aulas-de-Java-da-Uninorte/blob/master/LICENSE)
+![Badge](https://img.shields.io/badge/MIT-%237159c1?style=for-the-badge&logo=ghost)(https://github.com/ed1rac/Aulas-de-Java-da-Uninorte/blob/master/LICENSE)
 
