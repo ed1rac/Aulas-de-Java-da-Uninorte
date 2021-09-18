@@ -1,8 +1,6 @@
 # Aulas-de-Java-da-Uninorte
 ## Aulas de Java da Uninorte do professor Edkallenn
 ### Disciplina: Linguagem de Programação
-
-### Aulas Estruturas de Dados do Prof. Edkallenn Lima 
 ---
 
 [Descrição do projeto](#Descricao-do-projeto)
