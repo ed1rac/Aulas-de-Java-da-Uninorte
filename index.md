@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# Aulas-de-Java-da-Uninorte
+## Aulas de Java da Uninorte do professor Edkallenn
+### Disciplina: Linguagem de Programação
+---
 
-You can use the [editor on GitHub](https://github.com/ed1rac/Aulas-de-Java-da-Uninorte/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Descrição do projeto](#Descricao-do-projeto)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Ementa da Disciplina](#Ementa-da-Disciplina)
 
-### Markdown
+[Python?](#Python)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Contatos do professor:](#Contatos-do-professor)
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Descrição do projeto
+Aulas de Java da Uninorte do professor Edkallenn é um projeto do [professor Edkallenn](https://edkallenn.github.io/) com o objetivo de tornar público todos os programas utilizados nas aulas da disciplina Linguagem de Programação do curso de Sistemas de Informação da [Uninorte](https://www.uninorteac.edu.br/).
 
-- Bulleted
-- List
+Os Commits são todos efetuados dentro de sala enquanto os programas vão sendo codificados junto com os alunos.
 
-1. Numbered
-2. List
+A Nova versão dessa disciplina usa, além de Java, Python e C.
 
-**Bold** and _Italic_ and `Code` text
+![Badge](https://img.shields.io/badge/Prof-Ed-%237159c1?style=for-the-badge&logo=ghost)
 
-[Link](url) and ![Image](src)
-```
+## Ementa da Disciplina
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- O Conteúdo é dividido em três grandes Partes
+1.	Evolução e Conceitos Fundamentais das Linguagens de Programação (usando Python e C)
+2.	Paradigmas das Linguagens de Programação (usando python e C)
+3.	Introdução à Orientação a Objetos com a Linguagem Java (e Python)
 
-### Jekyll Themes
+## Python?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ed1rac/Aulas-de-Java-da-Uninorte/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A partir de 2017/2018 a disciplina vem usando Python para exemplificar os algoritmos e a codificação tem sido uma mescla das duas liguagens com resultados excelentes (a aprovação aumentou muito assim como as desistências diminuíram!).
 
-### Support or Contact
+Adições serão sempre efetuadas além de Commits relacionados às maratonas de programação que, porventura, surgirem.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Serão, futuramente, disponibilizadas ~~(Já estão no ar) [todas as apresentações]~~() da disciplina além de uma ideia de projeto para deixar disponíveis programas relacionados ao básico das Linguagens de Programação que estão na plataforma URI On-line Judge (ou outra como o SPOJ)
+
+## Contatos do professor: 
+
+- Página pessoal: <https://edkallenn.github.io/>
+- e-mail: [edkallenn@yahoo.com.br](mailto:edkallenn@yahoo.com.br)
+- Twitter: [@edkallenn](https://twitter.com/edkallenn)
+- Facebook: <https://www.facebook.com/edkallenn>
+- Instagram: [@edkallenn](https://www.instagram.com/edkallenn/)
+- Blog: <https://professored.wordpress.com/>
+- Linkedin: <https://www.linkedin.com/in/edkallenn/>
+
+Até mais e bons programas!
+
+## Licença
+![Badge](https://img.shields.io/badge/Licença-MIT-%237159c1?style=for-the-badge&logo=ghost)
+
+[Texto da Licença](https://github.com/ed1rac/Aulas-de-Java-da-Uninorte/blob/master/LICENSE)
+
