@@ -1,64 +1,27 @@
-# Aulas-de-Java-da-Uninorte
-## Aulas de Java da Uninorte do professor Edkallenn
-### Disciplina: Linguagem de Programação
----
+# ☕ Aulas de Linguagem de Programação (Java) — Uninorte
 
-[Descrição do projeto](#Descricao-do-projeto)
+<div align="center">
 
-[Ementa da Disciplina](#Ementa-da-Disciplina)
+[![Java](https://img.shields.io/badge/Java-JDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Uninorte](https://img.shields.io/badge/Curso-Sistemas_de_Informação-blue?style=for-the-badge)](https://www.uninorteac.edu.br/)
 
-[Python?](#Python)
+**Programas práticos construídos em sala de aula para a disciplina de Linguagem de Programação do curso de Sistemas de Informação da Uninorte.**
 
-[Contatos do professor:](#Contatos-do-professor)
+</div>
 
 ---
 
-## Descrição do projeto
-Aulas de Java da Uninorte do professor Edkallenn é um projeto do [professor Edkallenn](https://edkallenn.github.io/) com o objetivo de tornar público todos os programas utilizados nas aulas da disciplina Linguagem de Programação do curso de Sistemas de Informação da [Uninorte](https://www.uninorteac.edu.br/).
+## 📌 Conteúdo Programático
 
-Os Commits são todos efetuados dentro de sala enquanto os programas vão sendo codificados junto com os alunos.
-
-A Nova versão dessa disciplina usa, além de Java, Python e C.
-
-![Badge](https://img.shields.io/badge/Prof-Ed-%237159c1?style=for-the-badge&logo=ghost)
-
-## Ementa da Disciplina
-
-- O Conteúdo é dividido em três grandes Partes
-1.	Evolução e Conceitos Fundamentais das Linguagens de Programação (usando Python e C)
-2.	Paradigmas das Linguagens de Programação (usando python e C)
-3.	Introdução à Orientação a Objetos com a Linguagem Java (e Python)
-
-## Python?
-
-A partir de 2017/2018 a disciplina vem usando Python para exemplificar os algoritmos e a codificação tem sido uma mescla das duas liguagens com resultados excelentes (a aprovação aumentou muito assim como as desistências diminuíram!).
-
-Adições serão sempre efetuadas além de Commits relacionados às maratonas de programação que, porventura, surgirem.
-
-Serão, futuramente, disponibilizadas ~~(Já estão no ar) [todas as apresentações]~~() da disciplina além de uma ideia de projeto para deixar disponíveis programas relacionados ao básico das Linguagens de Programação que estão na plataforma URI On-line Judge (ou outra como o SPOJ)
-
-## Contatos do professor: 
-
-- Página pessoal: <https://edkallenn.github.io/>
-- e-mail: [edkallenn@yahoo.com.br](mailto:edkallenn@yahoo.com.br)
-- Twitter: [@edkallenn](https://twitter.com/edkallenn)
-- Facebook: <https://www.facebook.com/edkallenn>
-- Instagram: [@edkallenn](https://www.instagram.com/edkallenn/)
-- Blog: <https://professored.wordpress.com/>
-- Linkedin: <https://www.linkedin.com/in/edkallenn/>
-
-Até mais e bons programas!
-
-## Licença
-![Badge](https://img.shields.io/badge/Licença-MIT-%237159c1?style=for-the-badge&logo=ghost)
-
-[Texto da Licença](https://github.com/ed1rac/Aulas-de-Java-da-Uninorte/blob/master/LICENSE)
+- 📁 `Basico/`: Tipos primitivos, controle de fluxo (`if/else`, `switch`), laços (`for`, `while`) e métodos.
+- 📁 `Matematica-String/`: Operações matemáticas com `Math` e manipulação de textos com `String` e `StringBuilder`.
+- Programas interativos com interface gráfica usando `JOptionPane` e leitura de console com `Scanner`.
 
 ---
 
 ## ☕ Apoie o Projeto (Me Pague um Café / Buy Me a Coffee)
 
-Este projeto é desenvolvido com dedicação e carinho. Se este projeto foi útil para os seus estudos, trabalho ou produtividade diária e você quiser apoiar o desenvolvimento contínuo:
+Este projeto é desenvolvido com dedicação e carinho à disseminação do conhecimento e da tecnologia. Se ele foi útil para os seus estudos, aulas, trabalho ou produtividade diária e você quiser apoiar o desenvolvimento contínuo:
 
 - ☕ **Buy Me a Coffee (Internacional / Cartão / QR Code)**:
   - 👉 **[https://buymeacoffee.com/edkallenn](https://buymeacoffee.com/edkallenn)**
